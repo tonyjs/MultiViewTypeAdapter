@@ -1,0 +1,30 @@
+*.iml
+.idea
+.gradle
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+*.apk
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Windows thumbnail db
+Thumbs.db
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+build/
+
